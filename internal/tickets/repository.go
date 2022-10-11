@@ -3,7 +3,7 @@ package tickets
 import (
 	"context"
 	"fmt"
-
+	"desafio-go-web-freymanlozano/internal/domain"
 )
 
 type Repository interface {
